@@ -5,6 +5,7 @@
 'Version:  2.0
 'Key Concepts are listed below:
 'This script will recursively read files in folders & subfolders and write them to a text file
+'New comment to test our pull request
 
 '*************************************************
 
